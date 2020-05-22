@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mkfacswg\tabc"
+			],
+			[
+				"math",
+				"math\tmodule"
+			],
+			[
+				"a",
+				"alst\tabc"
+			],
+			[
+				"g",
+				"gen_prime\tfunction"
+			],
+			[
+				"so",
+				"soupWebPg"
+			],
+			[
+				"h",
+				"href\tstatement"
+			],
+			[
+				"tx",
+				"txtP\tstatement"
+			],
+			[
+				"B",
+				"BeautifulSoup\tmodule"
+			],
+			[
+				"n",
+				"nySrc\tstatement"
+			],
+			[
+				"re",
+				"requests\tmodule"
+			],
+			[
+				"t",
+				"tabTrigger"
+			],
+			[
+				"i",
+				"import\tkeyword"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"c",
+				"chk_prime"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"l",
+				"lst_of_factors_of_factors_primes"
+			],
+			[
+				"pl",
+				"plt"
+			],
+			[
+				"f",
+				"fb"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"co",
+				"counter_5"
+			],
+			[
+				"d",
+				"dvisr_lst"
+			],
+			[
+				"u",
+				"usr_in"
+			],
+			[
+				"ter",
+				"terminus_exec\tTerminus"
+			],
+			[
+				"file",
+				"file_path\tplaceholder"
+			],
+			[
+				"e",
+				"even"
+			],
+			[
+				"whe",
+				"when_100"
+			],
+			[
+				"w",
+				"when_100"
+			],
+			[
+				"da",
+				"datetime_1"
+			],
+			[
+				"s",
+				"str"
+			],
+			[
+				"x",
+				"x_cm"
+			],
+			[
+				"x_",
+				"x_m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "prob-5smallest_multiple.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "prob-5smallest_multiple.py"
+			}
+		},
+		{
+			"file": "make-factors.py",
+			"settings":
+			{
+				"buffer_size": 676,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python.terminus.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python.terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python.terminus.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Conda/Conda.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python.terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python.terminus.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/python.terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run in Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/python.terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python.terminus.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/python.terminus.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ui",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"t",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"perf",
+				"Preferences: Settings"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"open fil",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"bu",
+				"Build With: py-web"
+			],
+			[
+				"ca",
+				"Terminus: Close All"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"git:push ",
+				"Git: Push"
+			],
+			[
+				"git:p",
+				"Git: Push"
+			],
+			[
+				"git:a",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Build: Cancel"
+			],
+			[
+				"bui",
+				"Build: Cancel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"python.terminus",
+				"Build With: python.terminus"
+			],
+			[
+				"pytho",
+				"Build With: python.terminus - Syntax Check"
+			],
+			[
+				"bul",
+				"Build With: python.terminus"
+			],
+			[
+				"b",
+				"Build With: python.terminus"
+			],
+			[
+				"toggle ",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"view:",
+				"View: Toggle Menu"
+			],
+			[
+				"defalut",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"vp",
+				"View Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"print(x)",
+			"x = random.seed(1,2) ",
+			"print(x)",
+			"x",
+			"x = random.seed(1) ",
+			"import random",
+			"stop",
+			"exit",
+			"123131        + 123",
+			"13  + 123",
+			"exit",
+			"clear()",
+			"exit()",
+			"exit",
+			"print(\"sasad\")",
+			"print(int)",
+			"print",
+			"usr/bin/env python3",
+			"/usr/bin/env python3",
+			"#!/usr/bin/env python3"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tusqasi/Documents/python_stuff/project_euler"
+	],
+	"file_history":
+	[
+		"/home/tusqasi/Documents/python_stuff/project_euler/make-factors.py",
+		"/home/tusqasi/Documents/python_stuff/project_euler/#genrates-n-prime.py",
+		"/home/tusqasi/Documents/python_stuff/project_euler/pri_gen.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-17.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-17/sol.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-17/day-17.sublime-project",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/BS.sublime-snippet",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/python-terminus.sublime-build",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/py-web.sublime-build",
+		"/home/tusqasi/Documents/sracthing/sracthing1.py",
+		"/home/tusqasi/Documents/sracthing/sracthing.py",
+		"/home/tusqasi/Documents/python_stuff/maths+py/circle.py",
+		"/home/tusqasi/Documents/python_stuff/maths+py/circle",
+		"/home/tusqasi/Documents/python_stuff/project_euler/3largest prime.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/rough/proj-2.py",
+		"/home/tusqasi/Documents/python_stuff/sracth/proj-3.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-10.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-9*.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-6.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-5.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-4.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-3.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-2.py",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/rough/proj-2",
+		"/home/tusqasi/Documents/python_stuff/maths+py/sin+cos.py",
+		"/home/tusqasi/Documents/python_stuff/maths+py/ploting1.py",
+		"/home/tusqasi/Documents/c++_stuff/new_program.cpp",
+		"/var/log/apt/history.log",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/c++.sublime-build",
+		"/.Xresources",
+		"/home/tusqasi/.Xresources",
+		"/home/tusqasi/.Xdefaults",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/cout_print.sublime-snippet",
+		"/home/tusqasi/Documents/python_stuff/project_euler/2fibonaci.py",
+		"/home/tusqasi/Documents/python_stuff/project_euler/test.py",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/python.terminus.sublime-build",
+		"/home/tusqasi/Documents/python_stuff/project_euler/1-div3&5.py",
+		"/home/tusqasi/Documents/python_stuff/project_euler/test-1.py",
+		"/home/tusqasi/Documents/study/apr-6/apr-6",
+		"/home/tusqasi/Documents/python_stuff/number_genrator.py",
+		"/home/tusqasi/Documents/study/apr-6/apr-6-chem",
+		"/home/tusqasi/Documents/python_stuff/numpy/test_numpy",
+		"/home/tusqasi/.config/sublime-text-3/Packages/User/mltp_cmd.py",
+		"/home/tusqasi/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/tusqasi/Documents/python_stuff/maths+py/ploting.py",
+		"/home/tusqasi/peanuts.txt",
+		"/home/tusqasi/Documents/python_stuff/build_test.py",
+		"/home/tusqasi/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/home/tusqasi/Documents/python_stuff/daily_challenge_stuff/day-1.py",
+		"/home/tusqasi/Documents/python_stuff/just-a-file-2.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\"\")",
+			"gen_prime",
+			"(\"\")",
+			"is",
+			"elsa",
+			"import",
+			",",
+			"# Note: You may get different value of id\n\na = 2\n\n# Output: id(a) = 10919424\nprint('id(a) =', id(a))\n\na = a+1\n\n# Output: id(a) = 10919456\nprint('id(a) =', id(a))\n\n# Output: id(3) = 10919456\nprint('id(3) =', id(3))\n\nb = 2\n\n# Output: id(2)= 10919424\nprint('id(2) =', id(2))",
+			"60"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"anaa",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "prob-5smallest_multiple.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "make-factors.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 331.0
+	},
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 290.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/py-web.sublime-build",
+	"project": "project-euler.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/notes/study-notes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
